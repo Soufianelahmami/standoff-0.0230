@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"Helper mod 1","desc":"Standoff 0.023.0 is a software tool designed to aid in the annotation of natural language text, specifically in the biomedical domain. The tool is an implementation of the standoff format, ","photo":"https://iili.io/HSuTZSj.jpg"},
+  {"title":"how to use this app 2","desc":"which allows annotations to be stored separately from the original text, facilitating collaboration and version control. In this essay, I will provide an overview of Standoff 0.023.0, including its features, capabilities, and potential applications.","photo":"https://iili.io/HSuTLKu.jpg"},
+  {"title":"tips pack 3","desc":"Standoff 0.023.0 was developed by the BioNLP group at the University of Tokyo as a part of the GENIA project, which aimed to develop tools and resources for biomedical text mining. ","photo":"https://iili.io/HSuTQcb.jpg"},
+  {"title":"advice mod 4","desc":"The tool is written in Java and is available under an open-source license, making it accessible to researchers and developers worldwide.","photo":"https://iili.io/HSuTDHx.jpg"},
+  {"title":"helper pack 5","desc":"One of the primary features of Standoff 0.023.0 is its support for the standoff format. The standoff format is a standard for storing annotations separately from the original text. This format is useful in situations where multiple annotators are working on the same text or when annotations need to be versioned over time. ","photo":"https://iili.io/HSuTbAQ.jpg"},
+  {"title":"advice mod 6","desc":" The standoff format allows each annotation to be stored as a separate file, making it easy to add, remove, or modify annotations without affecting the original text.","photo":"https://iili.io/HSuTpDB.jpg"},
+  {"title":"how to use this app 7","desc":"Standoff 0.023.0 supports several different types of annotations, including named entities, relations, events, and coreference. Named entities are entities that have a specific name, ","photo":"https://iili.io/HSuTmNV.webp"},
+  {"title":"advice pack 8","desc":"such as genes, proteins, and diseases. Relations are links between entities, such as "treats" or "causes." Events are actions or processes that occur in the text, such as "phosphorylation" or "transcription." Coreference refers to situations where two or more mentions in the text refer to the same entity.","photo":"https://iili.io/HSuu9oP.jpg"}
    ]
  
 }
