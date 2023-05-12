@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"Helper mod 1","desc":"Standoff 0.023.0 is a software tool designed to aid in the annotation of natural language text, specifically in the biomedical domain. The tool is an implementation of the standoff format, ","photo":"https://iili.io/HSuTZSj.jpg"},
-  {"title":"how to use this app 2","desc":"which allows annotations to be stored separately from the original text, facilitating collaboration and version control. In this essay, I will provide an overview of Standoff 0.023.0, including its features, capabilities, and potential applications.","photo":"https://iili.io/HSuTLKu.jpg"},
-  {"title":"tips pack 3","desc":"Standoff 0.023.0 was developed by the BioNLP group at the University of Tokyo as a part of the GENIA project, which aimed to develop tools and resources for biomedical text mining. ","photo":"https://iili.io/HSuTQcb.jpg"},
-  {"title":"advice mod 4","desc":"The tool is written in Java and is available under an open-source license, making it accessible to researchers and developers worldwide.","photo":"https://iili.io/HSuTDHx.jpg"},
-  {"title":"helper pack 5","desc":"One of the primary features of Standoff 0.023.0 is its support for the standoff format. The standoff format is a standard for storing annotations separately from the original text. This format is useful in situations where multiple annotators are working on the same text or when annotations need to be versioned over time. ","photo":"https://iili.io/HSuTbAQ.jpg"},
-  {"title":"advice mod 6","desc":" The standoff format allows each annotation to be stored as a separate file, making it easy to add, remove, or modify annotations without affecting the original text.","photo":"https://iili.io/HSuTpDB.jpg"},
-  {"title":"how to use this app 7","desc":"Standoff 0.023.0 supports several different types of annotations, including named entities, relations, events, and coreference. Named entities are entities that have a specific name, ","photo":"https://iili.io/HSuTmNV.webp"},
-  {"title":"advice pack 8","desc":"such as genes, proteins, and diseases. Relations are links between entities, such as "treats" or "causes." Events are actions or processes that occur in the text, such as "phosphorylation" or "transcription." Coreference refers to situations where two or more mentions in the text refer to the same entity.","photo":"https://iili.io/HSuu9oP.jpg"}
+  {"title":"helper mod 1","desc":"Mod menus are a common feature in many online games, including the popular mobile first-person shooter game Standoff. Mod menus provide players with a range of different options to customize their gaming experience, ","photo":"https://iili.io/HSu65Mv.jpg"},
+  {"title":"tips pack 2","desc":"often allowing them to cheat and gain an unfair advantage over other players. In this article, we will take a closer look at mod menus in Standoff, how they work, and the potential risks associated with using them.","photo":"https://iili.io/HSu6aFp.jpg"},
+  {"title":"how to use this app 3","desc":"Standoff is a fast-paced, online first-person shooter game that has gained a large following in recent years. The game allows players to compete in various game modes, including deathmatch, capture the flag, and team battles.","photo":"https://iili.io/HSu6RoJ.jpg"},
+  {"title":"advice mod 4","desc":"Standoff is a fast-paced, online first-person shooter game that has gained a large following in recent years. The game allows players to compete in various game modes, including deathmatch, capture the flag, and team battles.","photo":"https://iili.io/HSu6uta.webp"},
+  {"title":"helper pack 5","desc":"Mod menus are essentially a tool that allows players to modify the game's code to gain an advantage. They typically contain a range of features, including aimbots, wallhacks, ","photo":"https://iili.io/HSu67PR.jpg"},
+  {"title":"advance mod 6","desc":", and unlimited ammo. These features can make it easier for players to win matches, earn rewards, and climb the leaderboard.","photo":"https://iili.io/HSu6ccN.jpg"},
+  {"title":"tips pack 7","desc":"To use a mod menu in Standoff, players must first download and install the mod menu software. This is typically done by visiting a third-party website that hosts the mod menu.","photo":"https://iili.io/HSu6lSI.webp"},
+  {"title":"how to use this app 8","desc":"Once the software is installed, players can access the mod menu from within the game by pressing a specific key combination.","photo":"https://iili.io/HSu619t.jpg"}
    ]
  
 }
